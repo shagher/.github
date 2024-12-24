@@ -4,10 +4,6 @@
   </a>
 </p>
 
-## About Shagher
-
-An innovative Yemeni platform that connects businesses and individuals with job opportunities and professional services easily and securely.
-
 ---
 
 <p align="center">Made with 💙 by the Shagher Team</p>
